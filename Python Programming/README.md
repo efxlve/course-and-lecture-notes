@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains notes on Python programming language. The notes are written in Jupyter Notebook and Python format. The notes are organized by chapters. Each chapter has its own folder.
+This section contains notes on Python programming language. The notes are written in Jupyter Notebook and Python format. The notes are organized by chapters. Each chapter has its own folder.
 
 ## Installation
 
