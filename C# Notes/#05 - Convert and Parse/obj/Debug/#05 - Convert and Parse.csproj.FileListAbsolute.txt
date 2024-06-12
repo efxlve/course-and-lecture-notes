@@ -1,0 +1,7 @@
+D:\Projects\C# Notes\#05 - Convert and Parse\bin\Debug\#05 - Convert and Parse.exe.config
+D:\Projects\C# Notes\#05 - Convert and Parse\bin\Debug\#05 - Convert and Parse.exe
+D:\Projects\C# Notes\#05 - Convert and Parse\bin\Debug\#05 - Convert and Parse.pdb
+D:\Projects\C# Notes\#05 - Convert and Parse\obj\Debug\#05 - Convert and Parse.csproj.AssemblyReference.cache
+D:\Projects\C# Notes\#05 - Convert and Parse\obj\Debug\#05 - Convert and Parse.csproj.CoreCompileInputs.cache
+D:\Projects\C# Notes\#05 - Convert and Parse\obj\Debug\#05 - Convert and Parse.exe
+D:\Projects\C# Notes\#05 - Convert and Parse\obj\Debug\#05 - Convert and Parse.pdb

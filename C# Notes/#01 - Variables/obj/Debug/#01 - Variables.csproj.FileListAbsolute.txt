@@ -1,0 +1,7 @@
+D:\Projects\C# Notes\#01 - Variables\bin\Debug\#01 - Variables.exe.config
+D:\Projects\C# Notes\#01 - Variables\bin\Debug\#01 - Variables.exe
+D:\Projects\C# Notes\#01 - Variables\bin\Debug\#01 - Variables.pdb
+D:\Projects\C# Notes\#01 - Variables\obj\Debug\#01 - Variables.csproj.AssemblyReference.cache
+D:\Projects\C# Notes\#01 - Variables\obj\Debug\#01 - Variables.csproj.CoreCompileInputs.cache
+D:\Projects\C# Notes\#01 - Variables\obj\Debug\#01 - Variables.exe
+D:\Projects\C# Notes\#01 - Variables\obj\Debug\#01 - Variables.pdb

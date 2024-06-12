@@ -1,0 +1,7 @@
+D:\Projects\C# Notes\#03 - Type Conversion\bin\Debug\#03 - Type Conversion.exe.config
+D:\Projects\C# Notes\#03 - Type Conversion\bin\Debug\#03 - Type Conversion.exe
+D:\Projects\C# Notes\#03 - Type Conversion\bin\Debug\#03 - Type Conversion.pdb
+D:\Projects\C# Notes\#03 - Type Conversion\obj\Debug\#03 - Type Conversion.csproj.AssemblyReference.cache
+D:\Projects\C# Notes\#03 - Type Conversion\obj\Debug\#03 - Type Conversion.csproj.CoreCompileInputs.cache
+D:\Projects\C# Notes\#03 - Type Conversion\obj\Debug\#03 - Type Conversion.exe
+D:\Projects\C# Notes\#03 - Type Conversion\obj\Debug\#03 - Type Conversion.pdb

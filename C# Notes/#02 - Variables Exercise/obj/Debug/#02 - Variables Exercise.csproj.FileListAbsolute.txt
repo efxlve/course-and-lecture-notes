@@ -1,0 +1,7 @@
+D:\Projects\C# Notes\#02 - Variables Exercise\bin\Debug\#02 - Variables Exercise.exe.config
+D:\Projects\C# Notes\#02 - Variables Exercise\bin\Debug\#02 - Variables Exercise.exe
+D:\Projects\C# Notes\#02 - Variables Exercise\bin\Debug\#02 - Variables Exercise.pdb
+D:\Projects\C# Notes\#02 - Variables Exercise\obj\Debug\#02 - Variables Exercise.csproj.AssemblyReference.cache
+D:\Projects\C# Notes\#02 - Variables Exercise\obj\Debug\#02 - Variables Exercise.csproj.CoreCompileInputs.cache
+D:\Projects\C# Notes\#02 - Variables Exercise\obj\Debug\#02 - Variables Exercise.exe
+D:\Projects\C# Notes\#02 - Variables Exercise\obj\Debug\#02 - Variables Exercise.pdb

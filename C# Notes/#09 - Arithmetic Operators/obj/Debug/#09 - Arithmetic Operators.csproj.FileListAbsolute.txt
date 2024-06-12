@@ -1,0 +1,7 @@
+D:\Projects\C# Notes\#09 - Arithmetic Operators\bin\Debug\#09 - Arithmetic Operators.exe.config
+D:\Projects\C# Notes\#09 - Arithmetic Operators\bin\Debug\#09 - Arithmetic Operators.exe
+D:\Projects\C# Notes\#09 - Arithmetic Operators\bin\Debug\#09 - Arithmetic Operators.pdb
+D:\Projects\C# Notes\#09 - Arithmetic Operators\obj\Debug\#09 - Arithmetic Operators.csproj.AssemblyReference.cache
+D:\Projects\C# Notes\#09 - Arithmetic Operators\obj\Debug\#09 - Arithmetic Operators.csproj.CoreCompileInputs.cache
+D:\Projects\C# Notes\#09 - Arithmetic Operators\obj\Debug\#09 - Arithmetic Operators.exe
+D:\Projects\C# Notes\#09 - Arithmetic Operators\obj\Debug\#09 - Arithmetic Operators.pdb

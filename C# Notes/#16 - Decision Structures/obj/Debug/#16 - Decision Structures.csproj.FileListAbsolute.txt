@@ -1,0 +1,7 @@
+D:\Projects\C# Notes\#16 - Decision Structures\bin\Debug\#16 - Decision Structures.exe.config
+D:\Projects\C# Notes\#16 - Decision Structures\bin\Debug\#16 - Decision Structures.exe
+D:\Projects\C# Notes\#16 - Decision Structures\bin\Debug\#16 - Decision Structures.pdb
+D:\Projects\C# Notes\#16 - Decision Structures\obj\Debug\#16 - Decision Structures.csproj.AssemblyReference.cache
+D:\Projects\C# Notes\#16 - Decision Structures\obj\Debug\#16 - Decision Structures.csproj.CoreCompileInputs.cache
+D:\Projects\C# Notes\#16 - Decision Structures\obj\Debug\#16 - Decision Structures.exe
+D:\Projects\C# Notes\#16 - Decision Structures\obj\Debug\#16 - Decision Structures.pdb

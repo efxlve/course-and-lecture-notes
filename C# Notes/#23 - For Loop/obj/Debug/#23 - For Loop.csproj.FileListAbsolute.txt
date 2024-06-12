@@ -1,0 +1,7 @@
+D:\Projects\C# Notes\#23 - For Loop\bin\Debug\#23 - For Loop.exe.config
+D:\Projects\C# Notes\#23 - For Loop\bin\Debug\#23 - For Loop.exe
+D:\Projects\C# Notes\#23 - For Loop\bin\Debug\#23 - For Loop.pdb
+D:\Projects\C# Notes\#23 - For Loop\obj\Debug\#23 - For Loop.csproj.AssemblyReference.cache
+D:\Projects\C# Notes\#23 - For Loop\obj\Debug\#23 - For Loop.csproj.CoreCompileInputs.cache
+D:\Projects\C# Notes\#23 - For Loop\obj\Debug\#23 - For Loop.exe
+D:\Projects\C# Notes\#23 - For Loop\obj\Debug\#23 - For Loop.pdb

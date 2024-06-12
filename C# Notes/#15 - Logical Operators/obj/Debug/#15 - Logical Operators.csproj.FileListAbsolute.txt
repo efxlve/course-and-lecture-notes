@@ -1,0 +1,7 @@
+D:\Projects\C# Notes\#15 - Logical Operators\bin\Debug\#15 - Logical Operators.exe.config
+D:\Projects\C# Notes\#15 - Logical Operators\bin\Debug\#15 - Logical Operators.exe
+D:\Projects\C# Notes\#15 - Logical Operators\bin\Debug\#15 - Logical Operators.pdb
+D:\Projects\C# Notes\#15 - Logical Operators\obj\Debug\#15 - Logical Operators.csproj.AssemblyReference.cache
+D:\Projects\C# Notes\#15 - Logical Operators\obj\Debug\#15 - Logical Operators.csproj.CoreCompileInputs.cache
+D:\Projects\C# Notes\#15 - Logical Operators\obj\Debug\#15 - Logical Operators.exe
+D:\Projects\C# Notes\#15 - Logical Operators\obj\Debug\#15 - Logical Operators.pdb
