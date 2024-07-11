@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LandmarkBook</string>
+    <string name="country_name">Country Name</string>
+    <string name="landmark_name">Landmark Name</string>
+    <string name="todo">TODO</string>
+    <string name="back"><![CDATA[< Back]]></string>
+</resources>

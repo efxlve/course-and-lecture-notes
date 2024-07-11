@@ -1,0 +1,6 @@
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\ProjectF\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\ProjectF\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\ProjectF\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\ProjectF\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\ProjectF\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\ProjectF\EntityLayer\obj\Debug\EntityLayer.pdb

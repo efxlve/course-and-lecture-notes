@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\old-projects\\Hospital-Management-and-Appointment-System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E0D637-4D51-44EB-B0D8-D2E44D46FFFF}|Project_Hospital\\ProjectC.csproj|c:\\users\\pc\\desktop\\old-projects\\hospital-management-and-appointment-system\\project_hospital\\connection\\sqlconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E0D637-4D51-44EB-B0D8-D2E44D46FFFF}|Project_Hospital\\ProjectC.csproj|solutionrelative:project_hospital\\connection\\sqlconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQLConnection.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\old-projects\\Hospital-Management-and-Appointment-System\\Project_Hospital\\Connection\\SQLConnection.cs",
+              "RelativeDocumentMoniker": "Project_Hospital\\Connection\\SQLConnection.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\old-projects\\Hospital-Management-and-Appointment-System\\Project_Hospital\\Connection\\SQLConnection.cs",
+              "RelativeToolTip": "Project_Hospital\\Connection\\SQLConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:38:48.188Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

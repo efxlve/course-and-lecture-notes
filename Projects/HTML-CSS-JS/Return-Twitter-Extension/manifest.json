@@ -1,0 +1,41 @@
+{
+    "manifest_version": 3,
+    "name": "Return Twitter",
+    "version": "1.0",
+    "description": "Return Twitter is a Chrome extension that brings back the old Twitter experience.",
+    "homepage_url": "https://github.com/efxlve/return-twitter",
+    "permissions": ["tabs", "activeTab"],
+    "action": {
+        "default_icon": {
+            "128": "favicon.png"
+        }
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://twitter.com/**"
+            ],
+            "js": [
+                "background.js"
+            ],
+            "run_at": "document_end"
+        }
+    ],
+    "web_accessible_resources": [
+        {
+            "resources": [
+                "layouts/*",
+                "images/*",
+                "fonts/*",
+                "libraries/*",
+                "_locales/*"
+            ],
+            "matches": [
+                "https://*/*"
+            ]
+        }
+    ],
+    "icons": {
+        "128": "favicon.png"
+    }
+}

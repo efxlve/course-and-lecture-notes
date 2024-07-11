@@ -1,0 +1,11 @@
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\ProjectF\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\ProjectF\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\ProjectF\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\ProjectF\LogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\ProjectF\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\ProjectF\LogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\ProjectF\LogicLayer\obj\Debug\LogicLayer.csproj.AssemblyReference.cache
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\ProjectF\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\ProjectF\LogicLayer\obj\Debug\LogicLayer.csproj.CopyComplete
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\ProjectF\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\ProjectF\LogicLayer\obj\Debug\LogicLayer.pdb

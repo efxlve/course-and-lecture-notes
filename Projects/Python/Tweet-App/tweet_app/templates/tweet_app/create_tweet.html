@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<h1>Create Tweet</h1>
+<div class="container tweetform">
+    <form action="" method="POST">
+        {% csrf_token %}
+        <!-- <div class="mb-3">
+            <label for="username" class="form-label">Username:</label>
+            <input type="text" class="form-control" id="username" name="username">
+        </div> -->
+        <div class="mb-3">
+            <label for="tweet" class="form-label">Text:</label>
+            <input type="text" class="form-control" id="tweet" name="tweet" placeholder="What's happening?">
+        </div>
+        <button type="submit" class="btn btn-primary"><i class="fa-solid fa-pen"></i> Send Tweet</button>
+    </form>
+</div>
+
+{% endblock %}

@@ -1,0 +1,17 @@
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\E_School\E_School\bin\Debug\E_School.exe.config
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\E_School\E_School\bin\Debug\E_School.exe
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\E_School\E_School\bin\Debug\E_School.pdb
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\E_School\E_School\obj\Debug\E_School.csproj.AssemblyReference.cache
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\E_School\E_School\obj\Debug\E_School.csproj.SuggestedBindingRedirects.cache
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\E_School\E_School\obj\Debug\E_School.Properties.Resources.resources
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\E_School\E_School\obj\Debug\E_School.csproj.GenerateResource.cache
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\E_School\E_School\obj\Debug\E_School.csproj.CoreCompileInputs.cache
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\E_School\E_School\obj\Debug\E_School.exe
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\E_School\E_School\obj\Debug\E_School.pdb
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\E_School\E_School\obj\Debug\E_School.frmMain.resources
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\E_School\E_School\obj\Debug\E_School.frmStudent.resources
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\E_School\E_School\obj\Debug\E_School.frmTeacher.resources
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\E_School\E_School\obj\Debug\E_School.frmClub.resources
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\E_School\E_School\obj\Debug\E_School.frmLesson.resources
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\E_School\E_School\obj\Debug\E_School.frmStudentNote.resources
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\E_School\E_School\obj\Debug\E_School.frmNote.resources

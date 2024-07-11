@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block content %}
+
+<h1>Sign Up</h1>
+
+<div class="container tweetform">
+    <form method="post" action="">
+        {% csrf_token %}
+
+        {% for field in form %}
+        <div class="mb-3">
+            {{ field.label_tag }}
+            <div>{{ field }}</div>
+        </div>
+        {% endfor %}
+
+        {% if form.errors %}
+        <p style="color: rgba(255, 0, 0, 0.678);">Your username or password didn't match. Please try again.</p>
+        {% endif %}
+
+        <button type="submit" class="btn btn-dark" value="signup" style="border-radius: 30px; margin-top: 15px;"><i
+            class="fa-solid fa-right-to-bracket"></i> Sign Up</button>
+    </form>
+</div>
+
+{% endblock %}

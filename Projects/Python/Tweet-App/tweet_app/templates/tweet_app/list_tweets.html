@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Home</h1>
+
+<div class="container" style="width: 50%;">
+        {% for tweet in tweets %}
+            <div class="card" style="padding: 10px;  margin-top: 20px;">
+                <div class="card-header">
+                    <h5><i class="fa-solid fa-circle-user"></i> {{ tweet.username }}
+                    {% if tweet.username == user %}
+                    <a href="{% url 'tweet_app:delete_tweet' tweet_id=tweet.id %}" class="btn btn-danger" style="float: right; width: 5%; height: 1%;"><i class="fa-solid fa-trash"></i></a>
+                    {% endif %}
+                </h5>
+                </div>
+                <div class="card-body">
+                    <p class="card-text">{{ tweet.text }}</p>
+                </div>
+            </div>
+        {% endfor %}
+</div>
+
+{% endblock %}

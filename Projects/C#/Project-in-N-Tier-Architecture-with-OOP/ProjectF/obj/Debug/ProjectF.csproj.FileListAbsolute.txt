@@ -1,0 +1,11 @@
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\ProjectF\ProjectF\bin\Debug\ProjectF.exe.config
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\ProjectF\ProjectF\bin\Debug\ProjectF.exe
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\ProjectF\ProjectF\bin\Debug\ProjectF.pdb
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\ProjectF\ProjectF\obj\Debug\ProjectF.csproj.AssemblyReference.cache
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\ProjectF\ProjectF\obj\Debug\ProjectF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\ProjectF\ProjectF\obj\Debug\ProjectF.Form1.resources
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\ProjectF\ProjectF\obj\Debug\ProjectF.Properties.Resources.resources
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\ProjectF\ProjectF\obj\Debug\ProjectF.csproj.GenerateResource.cache
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\ProjectF\ProjectF\obj\Debug\ProjectF.csproj.CoreCompileInputs.cache
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\ProjectF\ProjectF\obj\Debug\ProjectF.exe
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\ProjectF\ProjectF\obj\Debug\ProjectF.pdb

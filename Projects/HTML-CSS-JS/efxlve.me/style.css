@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono:wght@500&display=swap');
+
+html {
+  box-sizing: border-box;
+  scrollbar-width: thin;
+  -webkit-tap-highlight-color: transparent;
+  --font-size: 45px;
+  --color-background: #6c007a;
+  --color-primary: #f0f3bd;
+  --color-highlight: #e9ff70;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  color: var(--color-primary);
+  background-color: var(--color-background);
+  min-height: 100vh;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 900 600' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1'%3E%3Cg fill='%23028090'%3E%3Ccircle r='127' cx='5' cy='335'%3E%3C/circle%3E%3Ccircle r='56' cx='606' cy='260'%3E%3C/circle%3E%3Ccircle r='122' cx='876' cy='75'%3E%3C/circle%3E%3Ccircle r='89' cx='755' cy='466'%3E%3C/circle%3E%3C/g%3E%3C/svg%3E");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0 1rem;
+}
+
+::selection {
+  background: var(--color-highlight);
+  color: var(--color-background);
+}
+
+a {
+  color: var(--color-highlight);
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FFF;
+  text-decoration: underline;
+}
+
+main {
+  margin: auto;
+  padding: 20px;
+}
+
+.hello {
+  font-size: var(--font-size);
+  line-height: 1.2;
+  margin-bottom: 30px;
+}
+
+.name {
+  font-family: 'Roboto Mono', monospace;
+  font-size: 1.2em;
+  color: var(--color-highlight);
+  font-size: calc(var(--font-size) + 10px);
+}
+
+.link {
+  font-size: 40px;
+}
+
+.link + .link {
+  margin-top: 10px;
+}
+
+.link svg {
+  vertical-align: bottom;
+  margin-right: 5px;
+  height: calc(1em + 10px);
+  width: calc(1em + 10px);
+}
+
+.br1 {
+  display: none;
+}
+
+@media (max-width: 1100px) {
+  html {
+    --font-size: 30px;
+  }
+}
+
+@media (max-width: 760px) {
+  .br1 {
+    display: block;
+  }
+
+  .br2 {
+    display: none;
+  }
+}
+
+@media (max-width: 500px) {
+  html {
+    --font-size: 26px;
+  }
+
+  .link {
+    font-size: 30px;
+  }
+}

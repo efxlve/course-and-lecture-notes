@@ -1,0 +1,49 @@
+{% extends "base.html" %}
+{% block content %}
+
+{% if user.is_authenticated %}
+<h1>Account</h1>
+<div class="container tweetform" style="text-align: center;">
+    <h2 style="margin-top: 30px; margin-bottom: 30px;">Welcome {{ user.username }}!</h2>
+    <form method="post" action="{% url 'auth:logout' %}">
+        {% csrf_token %}
+        <a type="button" class="btn btn-danger" href="{% url 'auth:logout' %}?next=/" style="margin-bottom: 25px;"><i class="fa-solid fa-xmark"></i>
+            Logout</a>
+    </form>
+</div>
+
+{% else %}
+
+<h1>Login</h1>
+
+<div class="container tweetform">
+    <form method="post" action="{% url 'auth:login' %}">
+        {% csrf_token %}
+
+        {% for field in form %}
+        <div class="form-group">
+            {{ field.label_tag }}
+            <div>{{ field }}</div>
+        </div>
+        {% endfor %}
+
+        {% if form.errors %}
+        <p style="color: rgba(255, 0, 0, 0.678);">Your username and password didn't match. Please try again.</p>
+        {% endif %}
+
+        <button type="submit" class="btn btn-dark" style="border-radius: 30px; margin-top: 15px;"> Login</button>
+    </form>
+
+
+
+</div>
+
+<div class="container-fluid" style="padding-top: 100px; text-align: center;">
+    <h3>Have no account?</h3>
+    <a type="button" class="btn btn-outline-primary" href="{% url 'tweet_app:signup' %}" style="margin-top: 15px; border-radius: 30px;"><i
+            class="fa-solid fa-right-to-bracket"></i> Sign Up</a>
+</div>
+
+{% endif %}
+
+{% endblock %}
